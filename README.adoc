@@ -1,4 +1,4 @@
-= Starter_vertx
+= Spider_vertx
 
 image:https://img.shields.io/badge/vert.x-4.2.6-purple.svg[link="https://vertx.io"]
 
