@@ -1,4 +1,4 @@
-= Spider_vertx with MongoDB, Jsoup
+= vertx with MongoDB, Jsoup
 This application was generated using http://start.vertx.io
 Using Jsoup to parsing html
 
