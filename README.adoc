@@ -1,8 +1,6 @@
-= Spider_vertx
-
-image:https://img.shields.io/badge/vert.x-4.2.6-purple.svg[link="https://vertx.io"]
-
+= Spider_vertx with MongoDB, Jsoup
 This application was generated using http://start.vertx.io
+Using Jsoup to parsing html
 
 == Building
 
