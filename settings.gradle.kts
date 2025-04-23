@@ -1,1 +1,1 @@
-rootProject.name = "starter_vertx"
+rootProject.name = "vertx_mongoDB"
